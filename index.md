@@ -158,6 +158,143 @@ It moves your mouse on its own and spawns windows that can't be easily closed. T
 A self-proclaimed original concept: a mod where you battle using paranormal phenomena.
 See the link for the full rules.
 
+### YCM Representative Entity List
+
+A list of Creepy Entities appearing in YCM works — mostly originals, many created by Test_Alpha and Ti.
+
+#### Public Void
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/eccad889-23be-48db-b4f8-81b0d226711c" />
+
+Dr. Null.
+Attacking it gets you kicked, and in certain versions it can only be spawned under specific conditions — though that lore has become vague lately.
+It serves as the YCM icon.
+
+#### Binary 444
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/d7a082ed-9274-481d-b4df-879a3d294c4e" />
+
+Seems to be connected to Public Void somehow?
+Its lore is even more vague...
+
+#### TikThink
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/3009ddc0-4cf5-45dc-8d29-0be4efd35e32" />
+
+A lot of people probably don't know this one's name.
+It has a name that sounds like T*kT*k, but was actually inspired by it (somehow).
+Rumor has it this is what happens when you create cringe content and regret it. (Not serious.)
+Actually a rare one — only appears in Bullshit and VSCreepy.
+
+#### LongFix
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/496454c6-2534-4578-be7a-0245de93f198" />
+
+The grand finale entity.
+Usually involves being chased through a bedrock room, a bunch of stuff happens, then the game crashes — that's its typical role.
+There was an attempt to write a CreepyPasta Wiki article about it as a PC-destroying entity, but it got deleted due to AI-generated content and because the name "The Watcher" was already taken.
+
+#### Romanesco
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/dcae1cc7-5ad7-41ad-993f-aa97f568cb7a" />
+
+A rare one that only appears in Error 888.
+Was it in a scrapped work too...? (Prefer not to remember 😇)
+
+#### Ocean Error Entity (OEE)
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/53b121a0-3124-4105-a0c6-72e78edbdefa" />
+
+Exclusive to Error 283.
+Takes the "Ocean" part from the 283 series limited express "Ocean Arrow." Not particularly related beyond that.
+Fills a role similar to the Glitch Man from Error 422.
+
+#### Hero303
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/713289a1-5098-4a47-80bd-a7729a5b9a50" />
+
+Error 283 exclusive...?
+A character combining Herobrine and Entity 303.
+
+#### 303Brine
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/48446462-b7d2-4ae8-bfb0-e1c03cea221e" />
+
+Error 283 exclusive.
+The inverse of Hero303...?
+
+#### Error 64
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/2fe2d13a-2f5b-42b1-b76a-82c877b0b59c" />
+
+Unclear what it does.
+Appears in Error 283.
+A gateway/intermediary for LongFix...?
+
+#### EntityBrine
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/2b7fb417-10bf-400a-8df2-172c884417bf" />
+
+Unclear what it does.
+Appears in Error 283.
+What did it even do again 😇
+
+#### heroVoid
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/94cd98a0-979d-44c9-a298-a3449449a9ed" />
+
+Some unclear entity.
+Which one does it appear in again...
+Lately its role has been getting taken over by Binary 444.
+
+#### Alex
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/a77036d1-6a4c-4544-81f6-a590c7823751" />
+
+Appears in Bullshit.
+Probably Alex. Probably.
+
+#### ____
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/5d5bd863-6fa3-4526-b8f6-f16779b93585" />
+
+Some unclear entity.
+It just disappears.
+Appears in Fragmented.
+
+#### bm90Y2hlbmRlcg
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/e9b5ca6e-6e17-4ca4-af4e-24d783402e54" />
+
+Long Legged Jeb.
+Appears in Alpha 1.3.8.
+What happened to Jeb?
+
+#### Glitch Thing
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/3b7ac46a-de34-4b7e-ad1f-50101596a2f3" />
+
+Styled after That Thing.
+Appears in Fragmented.
+
+#### Z3JlYXRBbGV4
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/1ecefba2-0eb2-48ef-acaa-ec82e814834e" />
+
+Long Legged Alex.
+Appears in Alpha 1.3.8.
+What even is this 😇
+
+#### Length Frag
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/71dfb8ae-2df0-4cf1-8274-5dfdbadbea82" />
+
+A variant of LongFix.
+Apparently worse than LongFix.
+Appears in Fragmented.
+
+----------------
+
 # JP
 
 ## YonCursedMCへようこそ！
