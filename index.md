@@ -424,7 +424,7 @@ Creepy Minecraft Wikiに乗せた作品。
 <img height="320" alt="2026-05-12_11 05 06" src="https://github.com/user-attachments/assets/c6111576-dae4-4da7-97aa-2ac3af40746f" />
 <img height="320" alt="2026-05-12_11 05 19" src="https://github.com/user-attachments/assets/e9d36860-dd14-4e97-9198-562b0e1d926e" />
 
-* <ttps://github.com/YonCursedMC/Minecraft_Fragmented>
+* <https://github.com/YonCursedMC/Minecraft_Fragmented>
 
 最新作の一つ。
 Guiを前より凝ってみました。
