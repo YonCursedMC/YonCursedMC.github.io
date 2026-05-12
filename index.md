@@ -106,12 +106,52 @@ VBSを利用した作品なのでやるときは注意。
 * https://github.com/YonCursedMC/Error_283
 
 海外で流行った伝説の作品である。
-コードがぐちゃぐちゃであるが、後に整えられ、現在ではYonCursedMCを代表する作品となった
-ヤバい怪奇現象が頻繁に起こるので注意
+コードがぐちゃぐちゃであるが、後に整えられ、現在ではYonCursedMCを代表する作品となった。
+ヤバい怪奇現象が頻繁に起こるので注意。
 
 #### Error 888(Lv6-)
 
-<img height="320" height="1009" alt="2025-10-03_12 46 17" src="https://github.com/user-attachments/assets/c75bdba9-7836-4c6f-8cc6-92ddcb609f5b" />
-<img height="320" height="1009" alt="2025-10-03_12 46 54" src="https://github.com/user-attachments/assets/6db5e39a-fbae-43fc-877c-5b6148e0c04e" />
+<img height="320" alt="2025-10-03_12 46 17" src="https://github.com/user-attachments/assets/c75bdba9-7836-4c6f-8cc6-92ddcb609f5b" />
+<img height="320" alt="2025-10-03_12 46 54" src="https://github.com/user-attachments/assets/6db5e39a-fbae-43fc-877c-5b6148e0c04e" />
+
+* https://github.com/YonCursedMC/Minecraft_Error888
 
 伝説の始まり。
+Creepy Minecraft Wikiに乗せた作品。
+現在一番ダウンロードされている作品である。
+コード以外はよくできていると思う。
+酔いやすいのでsafe版をおすすめする。
+
+#### Fragmented(Lv5+)
+
+<img height="320" alt="2026-05-12_11 05 06" src="https://github.com/user-attachments/assets/c6111576-dae4-4da7-97aa-2ac3af40746f" />
+<img height="320" alt="2026-05-12_11 05 19" src="https://github.com/user-attachments/assets/e9d36860-dd14-4e97-9198-562b0e1d926e" />
+
+* https://github.com/YonCursedMC/Minecraft_Fragmented
+
+最新作の一つ。
+Guiを前より凝ってみました。
+ワールドが崩壊しているのが特徴。
+だからFragmented...なのか...？。
+ウイルスソフトもどきが起動することがあるので注意(害はまったくないが取り扱い注意)。
+
+#### Hello8(Lv7もどき?)
+
+<iframe height="320" src="https://www.youtube.com/embed/7qudg2s3tMw?list=LL" title="Minecraft Hello 8 Gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* https://github.com/YonCursedMC/Hello8
+
+名前がこんにちは×8だが、全く名前にそぐわない危険なやつ。
+マウスを勝手に動かしたり、まとめて消せないウィンドウを出したり、本当に危ないやつ。
+やる際は本当に自己責任で😇
+
+### その他
+
+#### VSCreepy
+
+<img height="320" alt="2026-05-12_11 13 39" src="https://github.com/user-attachments/assets/fbbb04fe-949d-4fb4-8763-94000ee77b2e" />
+
+* https://github.com/YonCursedMC/VSCreepy
+
+怪奇現象でバトルするという自称新しい発想のmod。
+ルールはリンクを見ればわかる
