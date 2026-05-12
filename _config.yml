@@ -1,1 +1,14 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-remote-theme
+
+# 全ページで目次を自動表示する
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      toc: true          # 目次を出す
+      toc_label: "INDEX" # 目次の見出し名
+      toc_sticky: true   # スクロールしても横についてくる
+      toc_levels: 1..4   # # から ### までを目次にする
