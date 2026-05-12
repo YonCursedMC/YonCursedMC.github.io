@@ -1,4 +1,4 @@
-<img width="162" height="616" alt="image" src="https://github.com/user-attachments/assets/1badbcfb-b73e-49ed-9af6-c2a859ad919f" /># YonCursedMC
+# YonCursedMC
 
 # EN(Claude Translated)
 
