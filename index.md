@@ -50,6 +50,7 @@ This is where I started going independent.
 An old Alpha-based creation.
 Made more recently, but the paranormal difficulty is low — veterans may find it a bit dull, but it's a good pick for beginners.
 It actually has some puzzle-solving elements hidden inside.
+Thank you for providing the photo, Bluesills.
 
 ##### Alpha 1.3.8 (Lv3)
 
@@ -62,6 +63,7 @@ A work centered around Jeb's love of Alex.
 What happens to Alex and Jeb...? (just go find out).
 Elongated Alexes and Jebs may appear, and a flood of modal windows can make the screen go absolutely haywire — handle with care.
 Note: Alex has no presence whatsoever at this point in Minecraft's history.
+Thank you for providing the photo, Bluesills.
 
 ---
 
@@ -346,6 +348,7 @@ Beta 1.2_78よりも少しイベントの難易度？が上がっている。
 古いAlphaベースの作品。
 最近よりに作ったが、怪奇現象の難易度が低いので、色々やっている人にとっては飽き飽きかもではあるが、初心者にはおすすめできる作品？。
 実は謎解き要素があったりする。
+Bluesillsさん写真の提供ありがとうです
 
 ##### Alpha 1.3.8(Lv3)
 
@@ -358,6 +361,7 @@ Beta 1.2_78よりも少しイベントの難易度？が上がっている。
 AlexとJebの身に何が...？(適当)。
 長いAlexやJebが出たり、モーダルウィンドウが大量に出て、画面が大変なことになる事があるので、取り扱いには注意。
 ちなみにこのときにAlexは影も形もない。
+Bluesillsさん写真の提供ありがとうです
 
 #### 中級者向け(Lv4~5-)
 
