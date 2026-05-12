@@ -1,8 +1,31 @@
-remote_theme: pages-themes/hacker@v0.2.0
+# テーマの設定
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # バージョンは最新を指定
 plugins:
-- jekyll-remote-theme
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-auto_ids: true
+  - jekyll-remote-theme
+  - jekyll-include-cache # 高速化のため推奨
+
+# Minimal Mistakes の基本設定
+locale: "ja-JP"
+title: "サイトのタイトル"
+minimal_mistakes_skin: "dark" # スキン（default, air, aqua, contrast, dark, dirt, sunriseなどから選択）
+
+# 目次のデフォルト設定（すべてのページで有効にする）
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      toc: true            # 目次を有効にする
+      toc_label: "目次"     # 目次のタイトル
+      toc_icon: "cog"
+      toc_sticky: true     # スクロールに追従させる
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
