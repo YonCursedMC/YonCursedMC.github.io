@@ -2,8 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
-
-minimal_mistakes_skin: "default"
+  - jekyll-include-cache
 
 defaults:
   - scope:
@@ -13,3 +12,4 @@ defaults:
       toc: true
       toc_label: "INDEX"
       toc_sticky: true
+      toc_levels: 1..4
