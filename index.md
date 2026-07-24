@@ -160,6 +160,21 @@ Antigravity is excellent, but this work also showed me that my own hands are sti
 
 It makes sounds that may cause misunderstandings, so please be considerate of your surroundings when playing.
 
+##### Uncertain Error371(Lv6+{Measuring})
+
+<img height="320" alt="Error371_Title" src="https://github.com/user-attachments/assets/235f3c0b-7d0e-4886-8d0a-835a8a6c5bc3" />
+
+* <https://github.com/YonCursedMC/Uncertain_Error371>
+
+Latest work
+This is my first work using JNA (Java Native Access) (I could potentially cause a blue screen or shutdown if I wanted to, but that would definitely turn it into a virus, so I didn't do it this time).
+An efficient version that lets you control world generation and other things from the command line 😇
+It can also run actual PowerShell and Linux commands.
+I'm confident that this contains the most dangerous event among all the YCM events.
+Of course, I'm using GLSL and Antigravity, but I'm using Antigravity more sparingly than before?
+I created this when I was recovering from a cold, so there might be some shortcomings, but I think it's pretty well done. I don't know for sure, but unusually, Public Void and Binary444 haven't appeared.
+Recently, I've been using 1.5.2 more often.
+
 ---
 
 #### Other
@@ -461,11 +476,27 @@ Guiを前より凝ってみました。
 
 * <https://github.com/YonCursedMC/Minecraft_Unfounded>
 
-最新作
+最新作だったもの
 初めてGLSLシェーダーとAntigravityを活用し開発した。
 That ThingやNebilim 172438(Nebilim 172434もどき、名前が違う)が出たり、エラーモーダルウィンドウで文字を書いたりする特殊な作品
 Antigravityは優秀だが、呪いのMinecraft感を出すにはやはり自分の手というものが一番重要になる事がわかった作品でもある。
 誤解を生む音を出すので、やる際は周囲の環境に配慮してやってください。
+
+##### Uncertain Error371(Lv6+{計測中})
+
+<img height="320" alt="image" src="https://github.com/user-attachments/assets/235f3c0b-7d0e-4886-8d0a-835a8a6c5bc3" />
+
+* <https://github.com/YonCursedMC/Uncertain_Error371>
+
+最新作
+初めてJNA(Java Native Access)を使った作品(その気になればブルースクリーンやシャットダウンとかもできてしまうが、流石にそこまですると、ウイルスになってしまうので、今回はしなかった。)
+コマンドラインでワールド生成などを操作するという効率的なバージョン😇
+地味に実際のPowershellやLinuxコマンドも動かせる
+数あるYCMのイベントの中では一番やばいことが起こる物が入っている自信がある。
+当然GLSLとAntigravityも利用しているが、Antigravityに関しては前よりは控えめに使用している？
+風邪が収まってきた頃くらいに作成したので、少し至らぬ点があるかもだが、まあまあよくできているとは思っている。多分、しらんけど
+珍しくPublic VoidやBinary444は出てきていない。
+最近は1.5.2が多め
 
 #### その他
 
