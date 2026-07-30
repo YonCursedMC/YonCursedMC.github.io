@@ -159,7 +159,7 @@ Antigravity is excellent, but this work also showed me that my own hands are sti
 
 It makes sounds that may cause misunderstandings, so please be considerate of your surroundings when playing.
 
-##### Uncertain Error371(Lv6+{Measuring})
+##### Uncertain Error371(Lv6+)
 
 <img height="320" alt="Error371_Title" src="https://github.com/user-attachments/assets/235f3c0b-7d0e-4886-8d0a-835a8a6c5bc3" />
 
@@ -481,7 +481,7 @@ That ThingやNebilim 172438(Nebilim 172434もどき、名前が違う)が出た�
 Antigravityは優秀だが、呪いのMinecraft感を出すにはやはり自分の手というものが一番重要になる事がわかった作品でもある。
 誤解を生む音を出すので、やる際は周囲の環境に配慮してやってください。
 
-##### Uncertain Error371(Lv6+{計測中})
+##### Uncertain Error371(Lv6+)
 
 <img height="320" alt="image" src="https://github.com/user-attachments/assets/235f3c0b-7d0e-4886-8d0a-835a8a6c5bc3" />
 
