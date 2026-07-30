@@ -91,7 +91,6 @@ It doesn't behave like a virus, but it might drive you a little crazy, hence the
 
 * <https://github.com/YonCursedMC/Minecraft_666_Edition>
 
-A collaboration with a certain "vegetable person."
 More of a puzzle-solving experience than a paranormal one.
 Unusually, the scenario changes depending on your seed.
 Uses VBS — proceed with caution.
@@ -320,8 +319,9 @@ What even is this 😇
 <img height="320" alt="image" src="https://github.com/user-attachments/assets/71dfb8ae-2df0-4cf1-8274-5dfdbadbea82" />
 
 A variant of LongFix.
-Apparently worse than LongFix.
-Appears in Fragmented.
+Apparently, it's even worse than LongFix.
+It appears in the *Minecraft* versions "Fragmented" and "Uncertain."
+There are rumors that touching it will destroy your PC at the BIOS level—though, in reality, it won't actually break it.
 
 ----------------
 
@@ -415,7 +415,6 @@ Chaos Editionを意識して作った。
 
 * <https://github.com/YonCursedMC/Minecraft_666_Edition>
 
-某野菜の人といっしょに作った作品。
 怪奇現象というより謎解きを楽しむ作品である。
 シードによって状況が変わる珍しい？作品。
 VBSを利用した作品なのでやるときは注意。
@@ -641,4 +640,5 @@ Alpha 1.3.8で出てくる
 
 LongFixの亜種
 LongFixよりヤバいらしい
-Fragmentedで出てくる
+Fragmented、Uncertainで出てくる
+触れてしまうとBIOSレベルでPCが壊れるという噂がある。まあ壊れんけど。
